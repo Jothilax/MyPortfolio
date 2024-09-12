@@ -23,7 +23,7 @@ function Home(){
             <div className='content'>
                 <p className='sec1p'>Hey, I'm Jothi</p>
                 <h1>I help small businesses and entrepreneurs build meaningful digital experiences. </h1>
-                <a href="https://drive.google.com/file/d/1im11eroxBuHkmWOi88ZSrKcO6m2EQliu/view">
+          <a href="https://drive.google.com/file/d/1rZj3YlyYqoionLuLkbqsXwMUtyJhiCq9/view">
                 <button type="button">Resume</button></a>
             </div>
             <div className='image'>
